@@ -1,8 +1,8 @@
 {
-  "name": "cross-fetch",
+  "name": "@d-fischer/cross-fetch",
   "version": "3.0.4",
   "description": "Universal WHATWG Fetch API for Node, Browsers and React Native",
-  "homepage": "https://github.com/lquixada/cross-fetch",
+  "homepage": "https://github.com/d-fischer/cross-fetch",
   "main": "dist/node-ponyfill.js",
   "browser": "dist/browser-ponyfill.js",
   "react-native": "dist/react-native-ponyfill.js",
@@ -39,12 +39,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lquixada/cross-fetch.git"
+    "url": "https://github.com/d-fischer/cross-fetch.git"
   },
-  "author": "Leonardo Quixada <lquixada@gmail.com>",
+  "author": "Daniel Fischer <daniel@d-fischer.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lquixada/cross-fetch/issues"
+    "url": "https://github.com/d-fischer/cross-fetch/issues"
   },
   "dependencies": {
     "node-fetch": "2.6.0",
